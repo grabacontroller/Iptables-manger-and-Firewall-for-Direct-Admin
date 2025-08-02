@@ -1,5 +1,4 @@
 # Iptables-manger-and-Firewall-for-Direct-Admin
-# iptables Manager Plugin for DirectAdmin
 
 A comprehensive DirectAdmin plugin for managing iptables firewall rules through a modern web interface.
 
